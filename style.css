@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background: linear-gradient(yellow, white);
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+marquee {
+    background-color: red;
+    color: white;
+}
